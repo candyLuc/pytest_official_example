@@ -5,13 +5,11 @@ description = ""
 authors = ["test"]
 license = "MIT"
 readme = "README.md"
-packages = [{include = "pytest_official_example"}]
 
 [tool.poetry.dependencies]
 python = "^3.10"
 pytest = "^7.4.0"
 tox = "^4.6.4"
-
 
 [build-system]
 requires = ["poetry-core"]
