@@ -6,11 +6,7 @@ From pytest official document.
 
 ## 2. Usage
 
-```bash
-.venv\Scripts\activate
-pytest
-pytest tests/test_tmp_path.py
-```
+TODO
 
 ### 2.1 init project
 
@@ -20,7 +16,11 @@ poetry install -v
 
 ### 2.2 usage
 
-pytest src
+```bash
+.venv\Scripts\activate
+pytest
+pytest tests/test_tmp_path.py
+```
 
 ## 3. Develop
 
